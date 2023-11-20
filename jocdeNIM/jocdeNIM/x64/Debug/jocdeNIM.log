@@ -1,0 +1,3 @@
+﻿  jocdeNIM.cpp
+E:\AluCiclesGS1\zexilili\cplusplus\jocdeNIM\jocdeNIM\jocdeNIM.cpp(8,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  jocdeNIM.vcxproj -> E:\AluCiclesGS1\zexilili\cplusplus\jocdeNIM\x64\Debug\jocdeNIM.exe
